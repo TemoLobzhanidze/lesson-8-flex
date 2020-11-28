@@ -1,0 +1,105 @@
+.baneri {
+    background-image: url('../img/Group\ 72.jpg');
+    width: 100%;
+    height: 324px;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.wraper {
+    display: flex;
+    width: 1089px;
+    padding-top: 30px;
+    justify-content: space-around;
+    margin: 0  auto;
+}
+.box1 {
+    width: 525px;
+    display: flex;
+    justify-content: start; 
+}
+.hpirveli{
+    color: seashell;
+    font-size: 14px;
+    padding-left: 0px;
+}
+.box2{
+    width: 562px;
+    display: flex;
+    justify-content: space-between;
+}
+.pp{
+    display: flex;
+    color: seashell;
+    font-size: 12px;
+}
+.wrap-box3{
+    margin-left: 100px;
+}
+.box3 {
+    margin-top: 146px;
+    width: 200px;
+    margin-left: 139px;
+}
+.hmeore {
+    color: seashell;
+    font-size: 42px;
+}
+.pg{
+    color: seashell;
+    font-size: 14px;
+}
+.pa{
+    color: seashell;
+    font-size: 14px;
+    margin-left: 31px;
+}
+.pgwrap {
+    display: flex;
+    justify-content: start;
+    margin-top: 14px;
+}
+/* section */
+.wraper-left {
+    width: 444px;
+    height: 388px;
+    margin-top: 128px;
+    margin-left: 139px;
+}
+.au5{
+    font-size: 14px;
+    color: slateblue;
+}
+.didih2{
+    font-size: 42px;
+    color: black;
+}
+.papa{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #000000;
+}
+/* read more */
+.readmorr{
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    margin-top: 20px;
+}
+.readd{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 15px;
+}
+/* right block sec1 */
+.divwrapdiv{
+    display: flex;
+    justify-content: space-around;
+}
+.wrap-righ{
+    display: flex;
+    margin-top: 90px;
+    margin-right: 139px;
+}
+.rb{
+    margin-right: 16px;
+}
